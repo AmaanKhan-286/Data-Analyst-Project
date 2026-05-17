@@ -1,4 +1,4 @@
-Coffee Sales Analytics Dashboard
+☕Coffee Sales Analytics Dashboard
 
 An interactive and data-driven Power BI dashboard designed to analyze coffee sales performance, customer purchasing behavior, product trends, and business profitability. The dashboard helps businesses monitor sales operations, identify high-performing products, and make informed strategic decisions using visual analytics.
 
