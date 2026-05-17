@@ -13,10 +13,15 @@ This dashboard is useful for café owners, retail managers, sales analysts, and 
 The dashboard was built using the following tools and technologies:
 
 📊 Microsoft Power BI Desktop – Main data visualization platform used for report creation and dashboard development.
+
 📂 Power Query – Used for data cleaning, transformation, and preparation.
+
 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, conditional logic, and dynamic insights.
+
 📝 Data Modeling – Relationships established between sales, products, customers, and order-related tables for efficient filtering and analysis.
+
 📁 File Format – .pbit / .pbix for development and dashboard sharing.
+
 📂 Data Source
 
 Source: Kaggle.
@@ -56,6 +61,7 @@ Identify high-performing coffee products
 Analyze customer purchasing behavior
 Track revenue and profitability trends
 Support strategic business and inventory decisions
+
 📊 Walkthrough of Key Visuals
 
 🔹 KPI Cards
@@ -126,16 +132,21 @@ This improves dashboard usability and enables customized analysis.
 📈 Business Impact & Insights
 
 ✅ Better Sales Monitoring
+
 Businesses can track real-time sales performance and quickly identify underperforming products or categories.
 
 ✅ Improved Inventory Planning
+
 Product demand insights help optimize stock levels and reduce inventory waste.
 
 ✅ Enhanced Marketing Strategy
+
 Customer purchasing behavior analysis enables targeted promotions and personalized marketing campaigns.
 
 ✅ Revenue Growth Opportunities
+
 The dashboard helps identify high-performing products and profitable business segments that can drive future growth.
 
 ✅ Data-Driven Decision Making
+
 Interactive reporting allows managers and stakeholders to make informed strategic decisions using clear visual insights.
