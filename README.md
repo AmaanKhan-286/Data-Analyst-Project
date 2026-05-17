@@ -1,12 +1,15 @@
-##Coffee Sales Analytics Dashboard
+Coffee Sales Analytics Dashboard
+
 An interactive and data-driven Power BI dashboard designed to analyze coffee sales performance, customer purchasing behavior, product trends, and business profitability. The dashboard helps businesses monitor sales operations, identify high-performing products, and make informed strategic decisions using visual analytics.
 
 📝 Short Description / Purpose
+
 The Coffee Sales Analytics Dashboard is a visually engaging Power BI report created to track and analyze coffee sales data across multiple product categories, customer segments, and sales channels. It enables users to uncover business insights related to revenue generation, customer demand, and operational performance through dynamic and interactive visualizations.
 
 This dashboard is useful for café owners, retail managers, sales analysts, and business decision-makers who want to optimize product performance and improve sales strategies.
 
 🛠️ Tech Stack
+
 The dashboard was built using the following tools and technologies:
 
 📊 Microsoft Power BI Desktop – Main data visualization platform used for report creation and dashboard development.
@@ -45,6 +48,7 @@ Which products contribute most to overall profitability?
 Without a centralized dashboard, identifying trends and making informed decisions becomes time-consuming and inefficient.
 
 🎯 Goal of the Dashboard
+
 The primary goal of this dashboard is to provide an interactive analytical solution that helps businesses:
 
 Monitor overall sales performance
@@ -55,6 +59,7 @@ Support strategic business and inventory decisions
 📊 Walkthrough of Key Visuals
 
 🔹 KPI Cards
+
 The dashboard presents key business metrics such as:
 
 Total Sales Revenue
@@ -67,6 +72,7 @@ Profit Contribution
 These KPIs provide a quick overview of business performance.
 
 ☕ Product Sales Analysis
+
 Bar and donut charts visualize sales contribution by coffee type and product category.
 
 Key insights include:
@@ -76,6 +82,7 @@ Most profitable categories
 Product demand comparison
 
 📈 Revenue Trend Analysis
+
 Line charts display sales and revenue trends over time.
 
 This helps businesses:
@@ -85,6 +92,7 @@ Track monthly or daily revenue performance
 Detect sales growth opportunities
 
 🛒 Customer Purchase Insights
+
 Interactive visuals analyze customer purchasing behavior, including:
 
 Frequently purchased products
@@ -94,6 +102,7 @@ High-value customer segments
 These insights support customer retention and targeted marketing strategies.
 
 📍 Sales Distribution Analysis
+
 Visuals compare sales performance across different stores, regions, or channels.
 
 This allows businesses to:
@@ -103,6 +112,7 @@ Evaluate operational efficiency
 Optimize regional sales strategies
 
 🎛️ Interactive Filters & Slicers
+
 The dashboard includes interactive slicers that allow users to filter data dynamically based on:
 
 Product category
@@ -114,6 +124,7 @@ Store or region
 This improves dashboard usability and enables customized analysis.
 
 📈 Business Impact & Insights
+
 ✅ Better Sales Monitoring
 Businesses can track real-time sales performance and quickly identify underperforming products or categories.
 
