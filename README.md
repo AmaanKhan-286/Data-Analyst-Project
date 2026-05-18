@@ -1,14 +1,14 @@
-☕Coffee Sales Analytics Dashboard
+# ☕Coffee Sales Analytics Dashboard
 
 An interactive and data-driven Power BI dashboard designed to analyze coffee sales performance, customer purchasing behavior, product trends, and business profitability. The dashboard helps businesses monitor sales operations, identify high-performing products, and make informed strategic decisions using visual analytics.
 
-📝 Short Description / Purpose
+# 📝 Short Description / Purpose
 
 The Coffee Sales Analytics Dashboard is a visually engaging Power BI report created to track and analyze coffee sales data across multiple product categories, customer segments, and sales channels. It enables users to uncover business insights related to revenue generation, customer demand, and operational performance through dynamic and interactive visualizations.
 
 This dashboard is useful for café owners, retail managers, sales analysts, and business decision-makers who want to optimize product performance and improve sales strategies.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -32,9 +32,9 @@ Regional or store-level performance insights
 
 The data is structured into multiple related tables to support cross-filtering, aggregation, and interactive reporting.
 
-✨ Features / Highlights                    
+# ✨ Features / Highlights                    
 
-📌 Business Problem                                                                                                                      
+## 📌 Business Problem                                                                                                                      
 Coffee businesses often generate large volumes of transactional data, but converting raw data into actionable insights can be challenging.
 
 Business owners and analysts commonly face questions such as:
@@ -47,7 +47,7 @@ Which products contribute most to overall profitability?
 
 Without a centralized dashboard, identifying trends and making informed decisions becomes time-consuming and inefficient.
 
-🎯 Goal of the Dashboard                                                                                  
+# 🎯 Goal of the Dashboard                                                                                  
 The primary goal of this dashboard is to provide an interactive analytical solution that helps businesses:
 
 Monitor overall sales performance
@@ -56,9 +56,9 @@ Analyze customer purchasing behavior
 Track revenue and profitability trends
 Support strategic business and inventory decisions
 
-📊 Walkthrough of Key Visuals
+# 📊 Walkthrough of Key Visuals
               
-🔹 KPI Cards                                                  
+## 🔹 KPI Cards                                                  
 The dashboard presents key business metrics such as:
 
 Total Sales Revenue
@@ -70,7 +70,7 @@ Profit Contribution
 
 These KPIs provide a quick overview of business performance.
 
-☕ Product Sales Analysis                                                              
+# ☕ Product Sales Analysis                                                              
 Bar and donut charts visualize sales contribution by coffee type and product category.
 
 Key insights include:
@@ -79,7 +79,7 @@ Best-selling coffee products
 Most profitable categories
 Product demand comparison
 
-📈 Revenue Trend Analysis                                  
+## 📈 Revenue Trend Analysis                                  
 Line charts display sales and revenue trends over time.
 
 This helps businesses:
@@ -88,7 +88,7 @@ Identify seasonal demand patterns
 Track monthly or daily revenue performance
 Detect sales growth opportunities
 
-🛒 Customer Purchase Insights                                              
+## 🛒 Customer Purchase Insights                                              
 Interactive visuals analyze customer purchasing behavior, including:
 
 Frequently purchased products
@@ -97,7 +97,7 @@ High-value customer segments
 
 These insights support customer retention and targeted marketing strategies.
 
-📍 Sales Distribution Analysis                                                  
+## 📍 Sales Distribution Analysis                                                  
 Visuals compare sales performance across different stores, regions, or channels.
 
 This allows businesses to:
@@ -106,7 +106,7 @@ Identify high-performing locations
 Evaluate operational efficiency
 Optimize regional sales strategies
 
-🎛️ Interactive Filters & Slicers                                                                
+## 🎛️ Interactive Filters & Slicers                                                                
 The dashboard includes interactive slicers that allow users to filter data dynamically based on:
 
 Product category
@@ -117,7 +117,7 @@ Store or region
 
 This improves dashboard usability and enables customized analysis.
 
-📈 Business Impact & Insights
+# 📈 Business Impact & Insights
 
 ✅ Better Sales Monitoring                                                                                    
 Businesses can track real-time sales performance and quickly identify underperforming products or categories.
@@ -134,6 +134,6 @@ The dashboard helps identify high-performing products and profitable business se
 ✅ Data-Driven Decision Making                                                                                          
 Interactive reporting allows managers and stakeholders to make informed strategic decisions using clear visual insights.
 
-6. Screenshots / Demos            
+# Screenshots / Demos            
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/AmaanKhan-286/Data-Analyst-Project/blob/main/Snapshot%20of%20the%20dashboard.png)
