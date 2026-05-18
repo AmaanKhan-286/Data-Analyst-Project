@@ -133,3 +133,6 @@ The dashboard helps identify high-performing products and profitable business se
 
 ✅ Data-Driven Decision Making                                                                                          
 Interactive reporting allows managers and stakeholders to make informed strategic decisions using clear visual insights.
+
+6. Screenshots / Demos
+Show what the dashboard looks like. Example:
