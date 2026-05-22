@@ -2,7 +2,7 @@
 
 An interactive and data-driven Power BI dashboard designed to analyze coffee sales performance, customer purchasing behavior, product trends, and business profitability. The dashboard helps businesses monitor sales operations, identify high-performing products, and make informed strategic decisions using visual analytics.
 
-# 📝 Short Description / Purpose
+# 📝 Project Overview
 
 The Coffee Sales Analytics Dashboard is a visually engaging Power BI report created to track and analyze coffee sales data across multiple product categories, customer segments, and sales channels. It enables users to uncover business insights related to revenue generation, customer demand, and operational performance through dynamic and interactive visualizations.
 
@@ -13,6 +13,7 @@ This dashboard is useful for café owners, retail managers, sales analysts, and 
 The dashboard was built using the following tools and technologies:
 
 📊 Microsoft Power BI Desktop – Main data visualization platform used for report creation and dashboard development.        
+📑 Microsoft Excel - Data cleaning and preprocessing (removing duplicates, handling null values, formatting data, etc.)
 📂 Power Query – Used for data cleaning, transformation, and preparation.                                        
 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, conditional logic, and dynamic insights.                                
 📝 Data Modeling – Relationships established between sales, products, customers, and order-related tables for efficient filtering and analysis.                
